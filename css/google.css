@@ -1,0 +1,50 @@
+.DOODLE{
+    text-align:center;}
+.search{
+    text-align: center;
+    background-color: rgb(240, 232, 232);
+    height: 100px;
+    padding-top: 5px;
+    padding-bottom:2px
+}
+.left{ 
+    margin-left: 400px;
+    width: auto;
+    height: 110px;
+    background-color:#7EE5DA ;
+    float: left;
+    margin-left: 200px;
+    margin-top: 2px;
+    margin-right: 2px;
+    text-align: center;}
+.centre{
+    padding-right:75px;
+    text-align: center;
+    width: auto;
+    height: 110px;
+    background-color: aquamarine;
+    padding-left: 110px;
+    float: left;
+    margin-top: 2px;
+    margin-left: 2px;
+}
+.right{
+    width: auto;
+    height: 110px;
+    background-color:#62B3AA;
+    float: left;
+    margin-top: 2px;
+    margin-left: 2px;   
+}
+.butonlar{
+    background-color: #62B3AA;
+    height: 110px;
+    width: auto;
+    float: left;
+    margin-top: 2px;
+    margin-left: 0px;
+}
+.copyright{
+    clear: both;
+    text-align: center;
+}
